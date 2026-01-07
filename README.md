@@ -4,7 +4,7 @@
 <img align="right" alt="side-image" width="400" src="./assets/banner.jpeg"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru?name=aditsuru&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru" /> </p>
 
-Currently experimenting with **Rust, Mobile Dev, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ
+Currently experimenting with **LangGraph, Mobile Dev, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ
 
 ˚🐾˖° Always down to collaborate on something **weird, ambitious, or beautifully over-engineered**
 
