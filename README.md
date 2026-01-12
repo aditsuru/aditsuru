@@ -4,11 +4,11 @@
 <img align="right" alt="side-image" width="400" src="./assets/banner.png"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru?name=aditsuru&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru" /> </p>
 
-Currently experimenting with **LangGraph, Mobile Dev, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ
+Currently experimenting with **LangGraph, Mobile Dev, and whatever breaks my brain in a good way** ฅ ฅ
 
 ˚🐾˖° Always down to collaborate on something **weird, ambitious, or beautifully over-engineered**
 
-Documenting the messy art of making cool things — now live at [aditsuru.com](https://aditsuru.com) ฅ ฅ
+Documenting the messy art of making cool things — now live at [aditsuru.com](https://aditsuru.com) ₍^. .^₎Ⳋ
 
 🐱ྀི I love the quiet of cave life, ask me about anything:
 
