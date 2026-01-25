@@ -12,7 +12,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 🐱ྀི I love the quiet of cave life, ask me about anything:
 
-𖹭 Full-Stack Web Development & System Design  
+　 𖹭 Full-Stack Web Development & System Design  
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
 　 𖹭 Leadership, Management & Startup Chaos  
 　 𖹭 Building Complex AI Agents with LangGraph  
