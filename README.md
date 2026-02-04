@@ -1,7 +1,7 @@
 <img src="./assets/top_banner.jpeg" alt="MasterHead" width="100%" />
 
 <h1 align="center">Running on Caffeine and Spite ฅᨐฅ</h1>
-<img align="right" alt="side-image" width="400" src="./assets/banner.png"/>
+<img align="right" alt="side-image" width="400" src="./assets/banner.jpg"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru?name=aditsuru&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru" /> </p>
 
 Currently experimenting with **LangGraph, Mobile Dev, and whatever breaks my brain in a good way** ฅ ฅ
