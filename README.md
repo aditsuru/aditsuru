@@ -48,7 +48,7 @@ Always stalking new ideas to add to the hoard... 🧶
 
 ≽^•⩊•^≼
 
-I also lead and host a growing community of 200+ developers and creators. We build, break, and innovate together. You join our [Discord](https://discord.com/invite/HP2YPGXh6) and checkout our [GitHub Orgnization](https://github.com/homies-tech-innovation).
+I also lead and host a growing community of 200+ developers and creators. We build, break, and innovate together. You join our [Discord](https://discord.com/invite/HP2YPGXh6) and checkout our [GitHub Organization](https://github.com/homies-tech-innovation).
 
 <h2></h2>
 
