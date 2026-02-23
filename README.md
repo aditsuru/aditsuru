@@ -4,7 +4,7 @@
 <img align="right" alt="side-image" width="400" src="./assets/banner.png"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru?name=aditsuru&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru" /> </p>
 
-Currently experimenting with **NestJS, Mobile Dev, and whatever breaks my brain in a good way** ฅ ฅ
+Currently experimenting with frameworks like **NestJS, NextJS, and whatever breaks my brain in a good way** ฅ ฅ
 
 ˚🐾˖° Always down to collaborate on something **weird, ambitious, or beautifully over-engineered**
 
