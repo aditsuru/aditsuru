@@ -10,13 +10,13 @@ Currently experimenting with frameworks like **NestJS, NextJS, and whatever brea
 
 Documenting the messy art of making cool things — now live at [aditsuru.com](https://aditsuru.com) ₍^. .^₎Ⳋ
 
-🐱ྀི I love the quiet of cave life, ask me about anything:
+🐱ྀི I love quite the cave life, ask me about anything:
 
 　 𖹭 Full-Stack Web Development & System Design  
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
 　 𖹭 Leadership, Management & Startup Chaos  
-　 𖹭 Building Complex AI Agents with LangGraph  
-　 𖹭 Mobile Dev with Kotlin
+　 𖹭 Generative and Agentic AI  
+　 𖹭 Mobile Dev 
 
 ᯓᡣ𐭩 **Fun Fact:** My code runs smoother than my love life 💔
 
