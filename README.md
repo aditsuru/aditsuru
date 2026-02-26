@@ -36,6 +36,16 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 <h3 align="left">Aethel</h3>
 
+A social media app built in NextJS with Drizzle, Better-Auth, oRPC and S3. [Get demo here](https://github.com/aditsuru/glimpse)
+
+<p align="left">
+  
+  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=aditsuru&repo=glimpse&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/glimpse)
+  
+</p>
+
+<h3 align="left">Aethel</h3>
+
 Experience a live, AI-powered writing space for all your stories and docs. [Get demo here](https://github.com/homies-tech-innovation/aethel)
 
 <p align="left">
