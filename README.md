@@ -34,7 +34,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 <h2 align="left">Projects</h2>
 
-<h3 align="left">Aethel</h3>
+<h3 align="left">Glimpse</h3>
 
 A social media app built in NextJS with Drizzle, Better-Auth, oRPC and S3. [Get demo here](https://github.com/aditsuru/glimpse)
 
