@@ -44,16 +44,6 @@ A social media app built in NextJS with Drizzle, Better-Auth, oRPC and S3. [Get 
   
 </p>
 
-<h3 align="left">Aethel</h3>
-
-Experience a live, AI-powered writing space for all your stories and docs. [Get demo here](https://github.com/homies-tech-innovation/aethel)
-
-<p align="left">
-  
-  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=aethel&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/aethel)
-  
-</p>
-
 Always stalking new ideas to add to the hoard... 🧶
 
 ≽^•⩊•^≼
