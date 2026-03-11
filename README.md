@@ -62,5 +62,5 @@ I also lead and host a growing community of 200+ developers and creators. We bui
   <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="48%" />
   &nbsp;
   
-<img src="./assets/wave_animation_dark.svg" alt="wave" align="top" width="46%"/>
+<img src="./assets/wave_animation_dark.svg" alt="wave" align="top" width="50%"/>
 </p>
