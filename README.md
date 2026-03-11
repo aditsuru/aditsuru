@@ -16,7 +16,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
 　 𖹭 Leadership, Management & Startup Chaos  
 　 𖹭 Generative and Agentic AI  
-　 𖹭 Mobile Dev 
+　 𖹭 Mobile Dev
 
 ᯓᡣ𐭩 **Fun Fact:** My code runs smoother than my love life 💔
 
@@ -62,5 +62,5 @@ I also lead and host a growing community of 200+ developers and creators. We bui
   <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="48%" />
   &nbsp;
   
-<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top" width="50%"/>
+<img src="./assets/wave_animation_dark.svg" alt="wave" align="top" width="46%"/>
 </p>
