@@ -22,7 +22,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 <p align="left">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true&idleMessage=I%20reply%20late%20in%20dms)](https://discord.com/users/1307684932738613368)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true&idleMessage=What's%20up?)](https://discord.com/users/1307684932738613368)
 </p>
 
 <h2 align="left">Languages and Tools</h2>
