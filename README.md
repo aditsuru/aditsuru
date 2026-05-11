@@ -36,7 +36,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 <h3 align="left">Glimpse</h3>
 
-A social media app built in NextJS with Drizzle, Better-Auth, oRPC and AWS S3. [Get demo here](https://github.com/aditsuru/glimpse)
+A social media app built in NextJS with Drizzle, Better-Auth, oRPC and AWS S3. [Get demo here](https://glimpse.aditsuru.com)
 
 <p align="left">
   
