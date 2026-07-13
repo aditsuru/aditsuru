@@ -64,6 +64,16 @@ A social media app built in NextJS with Drizzle, Better-Auth, oRPC and AWS S3. [
   
 </p>
 
+<h3 align="left">Chowdr</h3>
+
+A full-stack CRM for running a solo agency, from outreach to payments. [Get demo here](https://github.com/aditsuru/chowdr)
+
+<p align="left">
+  
+  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=aditsuru&repo=chowdr&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/chowdr)
+  
+</p>
+
 Always stalking new ideas to add to the hoard... 🧶
 
 ≽^•⩊•^≼
