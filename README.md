@@ -70,7 +70,7 @@ A full-stack CRM for running a solo agency, from outreach to payments. [Get demo
 
 <p align="left">
   
-  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=aditsuru&repo=chowdr&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/chowdr)
+  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=aditsuru&repo=fabric&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/fabric)
   
 </p>
 
