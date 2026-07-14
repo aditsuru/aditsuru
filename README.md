@@ -64,7 +64,7 @@ A social media app built in NextJS with Drizzle, Better-Auth, oRPC and AWS S3. [
   
 </p>
 
-<h3 align="left">Chowdr</h3>
+<h3 align="left">Fabric</h3>
 
 A full-stack CRM for running a solo agency, from outreach to payments. [Get demo here](https://github.com/aditsuru/chowdr)
 
