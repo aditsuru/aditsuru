@@ -60,17 +60,7 @@ A social media app built in NextJS with Drizzle, Better-Auth, oRPC and AWS S3. [
 
 <p align="left">
   
-  [![GitHub Repo](https://github-readme-stats-aditsuru.vercel.app/api/pin/?username=aditsuru&repo=glimpse&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/glimpse)
-  
-</p>
-
-<h3 align="left">Fabric</h3>
-
-A full-stack CRM for running a solo agency, from outreach to payments. [Get demo here](https://github.com/aditsuru/chowdr)
-
-<p align="left">
-  
-  [![GitHub Repo](https://github-readme-stats-aditsuru.vercel.app/api/pin/?username=aditsuru&repo=fabric&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/fabric)
+  [![GitHub Repo](https://github-readme-stats-aditsuru.vercel.app/api/pin/?repo=glimpse&username=aditsuru&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/glimpse)
   
 </p>
 
