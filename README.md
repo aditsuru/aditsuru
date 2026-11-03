@@ -60,7 +60,7 @@ A social media app built in NextJS with Drizzle, Better-Auth, oRPC and AWS S3. [
 
 <p align="left">
   
-  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=aditsuru&repo=glimpse&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/glimpse)
+  [![GitHub Repo](https://github-readme-stats-aditsuru.vercel.app/api/pin/?username=aditsuru&repo=glimpse&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/glimpse)
   
 </p>
 
@@ -70,7 +70,7 @@ A full-stack CRM for running a solo agency, from outreach to payments. [Get demo
 
 <p align="left">
   
-  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=aditsuru&repo=fabric&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/fabric)
+  [![GitHub Repo](https://github-readme-stats-aditsuru.vercel.app/api/pin/?username=aditsuru&repo=fabric&theme=github_dark_dimmed&hide_border=true)](https://github.com/aditsuru/fabric)
   
 </p>
 
@@ -83,13 +83,13 @@ I also lead and host a growing community of 200+ developers and creators. We bui
 <h2></h2>
 
 <p align="left">
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats-aditsuru.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true" alt="Streak" width="50%" align="top" />
+  <img src="https://github-readme-streak-stats-git-main-aditsuru.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true" alt="Streak" width="50%" align="top" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats-aditsuru.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="48%" />
   &nbsp;
   
 <img src="./assets/wave_animation_dark.svg" alt="wave" align="top" width="50%"/>
